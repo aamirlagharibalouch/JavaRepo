@@ -1,0 +1,8 @@
+class Hello{
+public static void main(String arg[]){
+	int var1=10;
+	int var2=20;
+	System.out.println("Addition of Variable 1 & 2 is "+(var1+var2));
+}
+
+}
