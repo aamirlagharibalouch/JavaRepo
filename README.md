@@ -1,2 +1,0 @@
-# JavaRepo
-Programming for Java
